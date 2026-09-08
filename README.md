@@ -1,54 +1,24 @@
-<h1 align="center">Hi, I'm Vitali 👋</h1>
+# Vitali Kastrytsa
 
-<p align="center">
-  <strong>Product-focused software engineer building web, mobile, and real-time products.</strong><br />
-  TypeScript · React · Node.js · Flutter · Three.js
-</p>
+Full-Stack Developer · Warsaw, Poland
 
-<p align="center">
-  <a href="https://craftko.eu">CraftKo Studio</a> ·
-  <a href="https://www.linkedin.com/in/vitalikastrytsa/">LinkedIn</a> ·
-  <a href="https://github.com/craftko">GitHub</a>
-</p>
+I build web applications with Node.js, TypeScript, React and PostgreSQL. My work includes backend services, REST APIs and web interfaces. I also develop independent projects through [CraftKo Studio](https://craftko.eu), including a Flutter app for families and a browser-based 3D game.
 
-I turn product ideas into maintainable software with clear architecture, responsive interfaces, and production-ready delivery workflows.
+Open to Full-Stack and Backend Developer roles in Warsaw or remotely.
 
-My work spans reusable backend foundations, cross-platform applications, multilingual interfaces, and browser-based real-time systems. I care about the details that make products hold up after the demo: boundaries, state, failure handling, accessibility, and release quality.
+## Stack
 
-## 🧰 Tech stack
+- **Web:** TypeScript, JavaScript, Node.js, React, Next.js, PostgreSQL
+- **Mobile:** Flutter, Dart, Firebase
+- **Other tools:** Payload CMS, Three.js, Docker, GitHub Actions
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,threejs,vite,postgres,firebase,docker,git,github" alt="TypeScript, JavaScript, React, Next.js, Node.js, Flutter, Dart, Three.js, Vite, PostgreSQL, Firebase, Docker, Git, and GitHub" />
-</p>
+## Projects
 
-## 🚀 Selected work
-
-| Project | What it shows |
+| Project | Description |
 | --- | --- |
-| [CMS Starter](https://github.com/craftko/cms-starter) | Reusable headless CMS foundation with Next.js, TypeScript, Payload CMS, PostgreSQL, REST, Docker, and role-based access. |
-| [Resonance Frontier Showcase](https://github.com/craftko/resonance-frontier-showcase) | Browser-based 3D and real-time engineering with Three.js, Web Workers, TypeScript, and WebSocket transport. |
-| [Kids Piggy Bank Case Study](https://github.com/craftko/kids-piggy-bank-case-study) | Cross-platform Flutter product with Dart, Firebase, responsive layouts, and family-oriented workflows. |
-| [Cinema Platform Demo](https://github.com/craftko/cinema-platform-demo) | Multilingual responsive frontend with content discovery, session selection, seat selection, accessibility, and QA documentation. |
+| [CraftKo CMS Starter](https://github.com/craftko/cms-starter) | CMS starter for small websites, built with Next.js, Payload CMS and PostgreSQL. Includes an admin panel, drafts, media uploads and administrator/editor roles. |
+| [Kids Piggy Bank](https://github.com/craftko/kids-piggy-bank-case-study) | Flutter and Firebase app for tracking children's savings, goals and tasks, with separate parent and child modes. The repository contains a case study, screenshots and illustrative Dart samples. |
+| [Resonance Frontier](https://github.com/craftko/resonance-frontier-showcase) | Browser-based voxel sandbox built with Three.js and TypeScript. The showcase contains screenshots, architecture notes and selected code examples. |
+| [Cinema One](https://github.com/craftko/cinema-platform-demo) | Cinema website demo in Polish, English and Russian, with film listings, showtimes and an interactive seat picker. Built with HTML, CSS and JavaScript. |
 
-## 🛠️ What I build
-
-- **Web platforms** with React, Next.js, TypeScript, Node.js, and PostgreSQL.
-- **Mobile products** with Flutter, Dart, Firebase, and shared application architecture.
-- **Real-time and 3D experiences** with Three.js, Web Workers, Web Audio, and WebSocket systems.
-- **Production foundations** with Docker, CI workflows, migrations, validation, and clear deployment boundaries.
-
-## 🧭 Current focus
-
-- Building public engineering examples through CraftKo Studio.
-- Turning complex product ideas into clear, testable system boundaries.
-- Exploring decision-support products, AI integrations, and richer browser experiences.
-
-## 🤝 Let's connect
-
-- Website: [craftko.eu](https://craftko.eu)
-- LinkedIn: [linkedin.com/in/vitalikastrytsa](https://www.linkedin.com/in/vitalikastrytsa/)
-- Studio: [CraftKo Studio](https://github.com/craftko)
-
-<p align="center">
-  <i>Build useful things. Keep the system understandable.</i>
-</p>
+[Portfolio](https://craftko.eu) · [LinkedIn](https://www.linkedin.com/in/vitalikastrytsa/)
