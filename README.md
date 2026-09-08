@@ -8,9 +8,9 @@ Open to Full-Stack and Backend Developer roles in Warsaw or remotely.
 
 ## Stack
 
-- **Web:** TypeScript, JavaScript, Node.js, React, Next.js, PostgreSQL
-- **Mobile:** Flutter, Dart, Firebase
-- **Other tools:** Payload CMS, Three.js, Docker, GitHub Actions
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,flutter,firebase,docker" alt="TypeScript, React, Next.js, Node.js, PostgreSQL, Flutter, Firebase and Docker" />
+</p>
 
 ## Projects
 
