@@ -1,27 +1,54 @@
-# Vitali Kastrytsa
+<h1 align="center">Hi, I'm Vitali 👋</h1>
 
-Software engineer building reliable web, mobile, and real-time products.
+<p align="center">
+  <strong>Product-focused software engineer building web, mobile, and real-time products.</strong><br />
+  TypeScript · React · Node.js · Flutter · Three.js
+</p>
 
-I work across TypeScript, React, Next.js, Node.js, Flutter, Firebase, PostgreSQL, Three.js, and WebSocket systems. My focus is turning product ideas into maintainable software with clear boundaries, responsive interfaces, and production-ready delivery workflows.
+<p align="center">
+  <a href="https://craftko.eu">CraftKo Studio</a> ·
+  <a href="https://www.linkedin.com/in/vitalikastrytsa/">LinkedIn</a> ·
+  <a href="https://github.com/craftko">GitHub</a>
+</p>
 
-## Selected work
+I turn product ideas into maintainable software with clear architecture, responsive interfaces, and production-ready delivery workflows.
 
-| Project | Focus |
+My work spans reusable backend foundations, cross-platform applications, multilingual interfaces, and browser-based real-time systems. I care about the details that make products hold up after the demo: boundaries, state, failure handling, accessibility, and release quality.
+
+## 🧰 Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,threejs,vite,postgres,firebase,docker,git,github" alt="TypeScript, JavaScript, React, Next.js, Node.js, Flutter, Dart, Three.js, Vite, PostgreSQL, Firebase, Docker, Git, and GitHub" />
+</p>
+
+## 🚀 Selected work
+
+| Project | What it shows |
 | --- | --- |
-| [CMS Starter](https://github.com/craftko/cms-starter) | Next.js, TypeScript, Payload CMS, PostgreSQL, Docker, REST API |
-| [Resonance Frontier Showcase](https://github.com/craftko/resonance-frontier-showcase) | Three.js, Web Workers, WebSocket transport, real-time browser systems |
-| [Kids Piggy Bank Case Study](https://github.com/craftko/kids-piggy-bank-case-study) | Flutter, Dart, Firebase, responsive mobile and Web product design |
-| [Cinema Platform Demo](https://github.com/craftko/cinema-platform-demo) | Multilingual frontend, responsive UI, accessibility, static delivery |
+| [CMS Starter](https://github.com/craftko/cms-starter) | Reusable headless CMS foundation with Next.js, TypeScript, Payload CMS, PostgreSQL, REST, Docker, and role-based access. |
+| [Resonance Frontier Showcase](https://github.com/craftko/resonance-frontier-showcase) | Browser-based 3D and real-time engineering with Three.js, Web Workers, TypeScript, and WebSocket transport. |
+| [Kids Piggy Bank Case Study](https://github.com/craftko/kids-piggy-bank-case-study) | Cross-platform Flutter product with Dart, Firebase, responsive layouts, and family-oriented workflows. |
+| [Cinema Platform Demo](https://github.com/craftko/cinema-platform-demo) | Multilingual responsive frontend with content discovery, session selection, seat selection, accessibility, and QA documentation. |
 
-## What I care about
+## 🛠️ What I build
 
-- Clear architecture and explicit ownership boundaries.
-- Interfaces that stay usable across mobile, Web, and desktop widths.
-- Safe synchronization, retry behavior, and release validation.
-- Public examples that explain engineering decisions without exposing private product IP or credentials.
+- **Web platforms** with React, Next.js, TypeScript, Node.js, and PostgreSQL.
+- **Mobile products** with Flutter, Dart, Firebase, and shared application architecture.
+- **Real-time and 3D experiences** with Three.js, Web Workers, Web Audio, and WebSocket systems.
+- **Production foundations** with Docker, CI workflows, migrations, validation, and clear deployment boundaries.
 
-## Product work
+## 🧭 Current focus
 
-CraftKo Studio: [craftko.eu](https://craftko.eu)
+- Building public engineering examples through CraftKo Studio.
+- Turning complex product ideas into clear, testable system boundaries.
+- Exploring decision-support products, AI integrations, and richer browser experiences.
 
-Some product and client work remains private. The public repositories here are deliberately selected review editions and case studies.
+## 🤝 Let's connect
+
+- Website: [craftko.eu](https://craftko.eu)
+- LinkedIn: [linkedin.com/in/vitalikastrytsa](https://www.linkedin.com/in/vitalikastrytsa/)
+- Studio: [CraftKo Studio](https://github.com/craftko)
+
+<p align="center">
+  <i>Build useful things. Keep the system understandable.</i>
+</p>
